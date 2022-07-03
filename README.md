@@ -4,5 +4,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [OSSInsight](ossinsight.io)
+- 🔭 I’m currently working on [OSSInsight](https://ossinsight.io)
 - 🌱 I’m currently learning React...
