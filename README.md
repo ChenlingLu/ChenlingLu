@@ -6,3 +6,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [OSSInsight](https://ossinsight.io)
 - 🌱 I’m currently learning React...
+
+
+## Repository star history
+
+[![Repository star history](https://ossinsight-lite-six.vercel.app/widgets/repository-star-history/thumbnail.png)](https://ossinsight-lite-six.vercel.app/widgets/repository-star-history)
+
